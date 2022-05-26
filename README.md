@@ -1,6 +1,6 @@
 # docker-sonarqube-9.4
 
-Requirements: download sonarqube and change the name to sonarqube-9.4.0.54424.zip
+Requirements: download sonarqube and change the name to sonarqube-9.4.0.54424.zip and leave it in the root folder beside of Dockerfile
 
 ## Build
 
